@@ -30,6 +30,9 @@
     <a href="https://github.com/miamatriarx/meta/actions">
       <img src="https://img.shields.io/github/release-date/miamatriarx/meta?logo=github&label=Release+Date&color=c04080&logoColor=ffffff" title="Release Date" alt="Release Date"/>
     </a>
+  </p>
+
+  <p>
     <a href="https://github.com/miamatriarx/meta/blob/main/license">
       <img src="https://img.shields.io/github/license/miamatriarx/meta?logo=github&label=License&color=c04080&logoColor=ffffff" title="License" alt="License"/>
     </a>
