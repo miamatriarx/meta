@@ -199,10 +199,10 @@
 ✔️ [Docs](https://github.com/miamatriarx/meta/blob/main/docs)\
 ✔️ [Contributing](https://github.com/miamatriarx/.github/blob/main/docs/contributing.md)\
 ✔️ [Security](https://github.com/miamatriarx/.github/blob/main/docs/security.md)\
-✔️ [Changelog](https://github.com/miamatriarx/meta/blob/main/changelog.md)\
-✔️ [Release Notes](https://github.com/miamatriarx/meta/blob/main/release.md)\
-✔️ [Authors](https://github.com/miamatriarx/meta/blob/main/authors.md)\
-✔️ [Contributors](https://github.com/miamatriarx/meta/blob/main/contributors.md)\
+✔️ [Changelog](https://github.com/miamatriarx/meta/blob/main/docs/changelog.md)\
+✔️ [Release Notes](https://github.com/miamatriarx/meta/blob/docs/main/release.md)\
+✔️ [Authors](https://github.com/miamatriarx/meta/blob/main/docs/authors.md)\
+✔️ [Contributors](https://github.com/miamatriarx/meta/blob/main/docs/contributors.md)\
 ✔️ [Acknowledgements](https://github.com/miamatriarx/meta/blob/main/acknowledgements.md)\
 ✔️ [License](https://github.com/miamatriarx/meta/blob/main/license)
 
