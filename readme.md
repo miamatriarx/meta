@@ -210,11 +210,11 @@
 
 Thank you to all the [authors](https://github.com/miamatriarx/meta/blob/main/docs/authors.md) and [contributors](https://github.com/miamatriarx/meta/blob/main/docs/contributors.md) who contributed to this project, as well as notable [acknowledgements](https://github.com/miamatriarx/meta/blob/main/docs/acknowledgements.md).
 
-If you would like to contribute have a look at our [code of conduct](https://github.com/miamatriarx/.github/blob/main/docs/code_of_conduct.md) and [contributing](https://github.com/miamatriarx/.github/blob/main/docs/contributing.md).
-
 ![Contributors](https://contrib.rocks/image?repo=miamatriarx/meta)
 
-## ‼️ License ⁉️
+If you would like to contribute have a look at our [code of conduct](https://github.com/miamatriarx/.github/blob/main/docs/code_of_conduct.md) and [contributing](https://github.com/miamatriarx/.github/blob/main/docs/contributing.md).
+
+## 🎉 License 💯
 
 <p>
   <a href="https://github.com/miamatriarx/meta/blob/main/license">
