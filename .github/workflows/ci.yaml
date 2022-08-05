@@ -52,7 +52,7 @@ jobs:
         with:
           args:
             -Dsonar.organization=miamatriarx
-            -Dsonar.projectKey=miamatriarx_miamatriarx
+            -Dsonar.projectKey=miamatriarx_meta
             -Dsonar.projectBaseDir=.
             -Dsonar.tests=tests
             -Dsonar.verbose=true
