@@ -1,5 +1,3 @@
-# Contributors 💕
+# 🧚🏻‍♀️✨ Contributors 🏰💕
 
-A special thank you to all the wonderful people who contributed to this project.
-
-![Contributors](https://contrib.rocks/image?repo=miamatriarx/meta)
+![Contributors](https://contrib.rocks/image?repo=miamatriarx/miamatriarx)
