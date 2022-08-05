@@ -265,7 +265,7 @@ If you would like to contribute have a look at our [code of conduct](https://git
 
   <p>
     <a href="https://discord.gg/matriarx">
-      <img src="https://img.shields.io/discord/967555118679601212?logo=discord&label=Chat&color=738adb&logoColor=ffffff" title="Chat" alt="Chat"/>
+      <img src="https://img.shields.io/discord/967555118679601212?logo=discord&label=Join+the+community&color=738adb&logoColor=ffffff" title="Join the community" alt="Join the community"/>
     </a>
   </p>
 
