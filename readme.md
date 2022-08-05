@@ -1,9 +1,15 @@
 <h1 align="center">🧚🏻‍♀️✨ Meta 🏰💕</h1>
 
 <div align="center">
-  <p>A template repository.</p>
+  <p>A template repository 🎉</p>
 
   <p><i>Created with sprinkles of ✨ and oodles of 💕</i></p>
+
+  <p>
+    <a href="https://discord.gg/matriarx">
+      <img src="https://img.shields.io/discord/967555118679601212?logo=discord&label=Chat&color=40c0c0&logoColor=ffffff" title="Chat" alt="Chat"/>
+    </a>
+  </p>
 
   <p>
     <a href="https://github.com/miamatriarx">
@@ -29,12 +35,6 @@
     </a>
     <a href="https://github.com/miamatriarx/meta/actions">
       <img src="https://img.shields.io/github/release-date/miamatriarx/meta?logo=github&label=Release+Date&color=c04080&logoColor=ffffff" title="Release Date" alt="Release Date"/>
-    </a>
-  </p>
-
-  <p>
-    <a href="https://github.com/miamatriarx/meta/blob/main/license">
-      <img src="https://img.shields.io/github/license/miamatriarx/meta?logo=github&label=License&color=c04080&logoColor=ffffff" title="License" alt="License"/>
     </a>
   </p>
 </div>
@@ -214,7 +214,7 @@ Thank you to all the [authors](https://github.com/miamatriarx/meta/blob/main/doc
 
 If you would like to contribute have a look at our [code of conduct](https://github.com/miamatriarx/.github/blob/main/docs/code_of_conduct.md) and [contributing](https://github.com/miamatriarx/.github/blob/main/docs/contributing.md).
 
-## 🎉 License 💯
+## 🎊 License 🎈
 
 <p>
   <a href="https://github.com/miamatriarx/meta/blob/main/license">
