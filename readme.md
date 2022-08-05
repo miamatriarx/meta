@@ -1,7 +1,7 @@
 <h1 align="center">🧚🏻‍♀️✨ Meta 🏰💕</h1>
 
 <div align="center">
-  <p>A template repository.</p>
+  <p>Template repository.</p>
 
   <p><i>Created with sprinkles of ✨ and oodles of 💕</i></p>
 
