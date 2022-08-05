@@ -6,6 +6,12 @@
   <p><i>Created with sprinkles of ✨ and oodles of 💕</i></p>
 
   <p>
+    <a href="https://discord.gg/matriarx">
+      <img src="https://img.shields.io/discord/967555118679601212?logo=discord&label=Join+the+community&color=738adb&logoColor=ffffff" title="Join the community" alt="Join the community"/>
+    </a>
+  </p>
+
+  <p>
     <a href="https://github.com/miamatriarx">
       <img src="https://media.giphy.com/media/3oKIPc9VZj4ylzjcys/giphy-downsized.gif" title="Fractal" alt="Fractal" width="280px">
     </a>
@@ -29,12 +35,6 @@
     </a>
     <a href="https://github.com/miamatriarx/meta/actions">
       <img src="https://img.shields.io/github/release-date/miamatriarx/meta?logo=github&label=Release+Date&color=c04080&logoColor=ffffff" title="Release Date" alt="Release Date"/>
-    </a>
-  </p>
-
-  <p>
-    <a href="https://discord.gg/matriarx">
-      <img src="https://img.shields.io/discord/967555118679601212?logo=discord&label=Chat&color=738adb&logoColor=ffffff" title="Chat" alt="Chat"/>
     </a>
   </p>
 </div>
