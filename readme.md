@@ -104,7 +104,7 @@
   </a>
 </p>
 
-## 🧚🏻‍♀️✨ Repository 📚💕
+## 🧚🏻‍♀️✨ Repository 📚🎶
 
 <p>
   <a href="https://github.com/miamatriarx/meta">
