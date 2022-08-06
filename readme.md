@@ -275,7 +275,7 @@ If you would like to contribute have a look at our [code of conduct](https://git
 
   <p>
     <a href="https://github.com/miamatriarx">
-      <img src="https://contrib.rocks/image?repo=miamatriarx/.github" title="Mia Matriarx" alt="Mia Matriarx"/>
+      <img src="https://contrib.rocks/image?repo=miamatriarx/miamatriarx" title="Mia Matriarx" alt="Mia Matriarx"/>
     </a>
   </p>
 
