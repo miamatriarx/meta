@@ -1,3 +1,3 @@
 # 🧚🏻‍♀️✨ Contributors ✨🧚🏻‍♀️🦄🔮🏰💕
 
-![Contributors](https://contrib.rocks/image?repo=miamatriarx/miamatriarx)
+![Contributors](https://contrib.rocks/image?repo=miamatriarx/meta)
