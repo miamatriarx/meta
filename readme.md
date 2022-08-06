@@ -297,7 +297,7 @@ If you would like to contribute have a look at our [code of conduct](https://git
     </a>
   </p>
 
-  <h2>✨🧚🏻‍♀️🪄✨ Matriarx ✨🧚🏻‍♀️🏰💕</h2>
+  <h2>🧚🏻‍♀️✨ Matriarx ✨🧚🏻‍♀️🦄🔮🏰💕</h2>
 
   <p>
     <a href="https://matriarx.io">
