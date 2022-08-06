@@ -1,7 +1,7 @@
 <h1 align="center">🧚🏻‍♀️✨ Meta ✨🧚🏻‍♀️🦄🔮🏰💕</h1>
 
 <div align="center">
-  <p>🔮 A (GitHub) template repository 🦄</p>
+  <p>🔮 A (GitHub) repository template 🦄</p>
 
   <p><i>🧚🏻‍♀️✨ Created with sprinkles of ✨ and oodles of 💕</i></p>
 
