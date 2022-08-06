@@ -1,7 +1,7 @@
 <h1 align="center">🧚🏻‍♀️✨ Meta ✨🧚🏻‍♀️🦄🔮🏰💕</h1>
 
 <div align="center">
-  <p>A template repository 🎉</p>
+  <p>🔮 A (GitHub) template repository 🦄</p>
 
   <p><i>🧚🏻‍♀️✨ Created with sprinkles of ✨ and oodles of 💕</i></p>
 
@@ -214,7 +214,7 @@ Thank you to all the [authors](https://github.com/miamatriarx/meta/blob/main/doc
 
 If you would like to contribute have a look at our [code of conduct](https://github.com/miamatriarx/.github/blob/main/docs/code_of_conduct.md) and [contributing](https://github.com/miamatriarx/.github/blob/main/docs/contributing.md).
 
-## 🧚🏻‍♀️✨ License 🎊🎈
+## 🧚🏻‍♀️✨ License ✨🚀
 
 <p>
   <a href="https://github.com/miamatriarx/meta/blob/main/license">
