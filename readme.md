@@ -33,13 +33,15 @@
   </p>
 
   <p>
+    <a href="https://discord.gg/matriarx">🧚🏻‍♀️✨</a>
     <a href="https://discord.gg/matriarx">
       <img src="https://img.shields.io/discord/967555118679601212?logo=discord&label=Join+the+community&color=738adb&logoColor=ffffff" title="Join the community" alt="Join the community"/>
     </a>
+    <a href="https://discord.gg/matriarx">✨💕</a>
   </p>
 </div>
 
-## 🧚🏻‍♀️✨ Status 🏰☁️
+## 🧚🏻‍♀️✨ Status 🌈☁️
 
 <p>
   <a href="https://github.com/miamatriarx/meta/actions">
@@ -104,7 +106,7 @@
   </a>
 </p>
 
-## 🧚🏻‍♀️✨ Repository 📚🎶
+## 🧚🏻‍♀️✨ Repository 📚🚀
 
 <p>
   <a href="https://github.com/miamatriarx/meta">
@@ -191,12 +193,12 @@
 
 ## 🧚🏻‍♀️✨ Documentation 📚🔮
 
-🪄✨ [Code of Conduct](https://github.com/miamatriarx/.github/blob/main/docs/code_of_conduct.md)\
-🪄✨ [Support](https://github.com/miamatriarx/.github/blob/main/docs/support.md)\
+🪄✨ [Project](https://github.com/miamatriarx/meta/projects)\
 🪄✨ [Discussions](https://github.com/miamatriarx/meta/discussions)\
-🪄✨ [Projects](https://github.com/miamatriarx/meta/projects)\
 🪄✨ [Wiki](https://github.com/miamatriarx/meta/wiki)\
-🪄✨ [Docs](https://github.com/miamatriarx/meta/blob/main/docs)\
+🪄✨ [Docs](https://github.com/miamatriarx/meta/blob/main/docs/readme.md)\
+🪄✨ [Source Code](https://github.com/miamatriarx/.github/blob/main/src/readme.md)\
+🪄✨ [Code of Conduct](https://github.com/miamatriarx/.github/blob/main/docs/code_of_conduct.md)\
 🪄✨ [Contributing](https://github.com/miamatriarx/.github/blob/main/docs/contributing.md)\
 🪄✨ [Security](https://github.com/miamatriarx/.github/blob/main/docs/security.md)\
 🪄✨ [Changelog](https://github.com/miamatriarx/meta/blob/main/docs/changelog.md)\
@@ -204,6 +206,8 @@
 🪄✨ [Authors](https://github.com/miamatriarx/meta/blob/main/docs/authors.md)\
 🪄✨ [Contributors](https://github.com/miamatriarx/meta/blob/main/docs/contributors.md)\
 🪄✨ [Acknowledgements](https://github.com/miamatriarx/meta/blob/main/acknowledgements.md)\
+🪄✨ [Supporters](https://github.com/miamatriarx/meta/blob/main/supporters.md)\
+🪄✨ [Contact](https://github.com/miamatriarx/.github/blob/main/docs/support.md)\
 🪄✨ [License](https://github.com/miamatriarx/meta/blob/main/license)
 
 ## 🧚🏻‍♀️✨ Contributors 💎🚀
@@ -214,7 +218,17 @@ Thank you to all the [authors](https://github.com/miamatriarx/meta/blob/main/doc
 
 If you would like to contribute have a look at our [code of conduct](https://github.com/miamatriarx/.github/blob/main/docs/code_of_conduct.md) and [contributing](https://github.com/miamatriarx/.github/blob/main/docs/contributing.md).
 
-## 🧚🏻‍♀️✨ License ✨🚀
+## 🧚🏻‍♀️✨ Support 🧚🏻‍♀️🦄
+
+🧚🏻‍♀️✨ Interested in earning some fantastic rewards? 🦄🔮
+
+You can have a look at my [GitHub](https://github.com/sponsors/miamatriarx) or [Patreon](https://patreon.com/miamatriarx) pages, there are some fantastic rewards you can earn by supporting me ✨🧚🏻‍♀️
+
+I build free and open source software which means that instead of spending my invaluable time making money, I give it away for free to make cool things for people.  It brings me joy to create things that add value to people's life and I would like to be able to continue doing so, but I'm dependent on people who support me.  At the cost of a coffee you can help make the world a better place ✨💕
+
+🧚🏻‍♀️✨ A special thank you to all the wonderful [supporters](https://github.com/miamatriarx/meta/blob/main/docs/supporters.md) who make it all possible ✨💕
+
+## 🧚🏻‍♀️✨ License ✨💕
 
 <p>
   <a href="https://github.com/miamatriarx/meta/blob/main/license">
@@ -268,14 +282,16 @@ If you would like to contribute have a look at our [code of conduct](https://git
   </p>
 
   <p>
+    <a href="https://discord.gg/matriarx">🧚🏻‍♀️✨</a>
     <a href="https://discord.gg/matriarx">
       <img src="https://img.shields.io/discord/967555118679601212?logo=discord&label=Join+the+community&color=738adb&logoColor=ffffff" title="Join the community" alt="Join the community"/>
     </a>
+    <a href="https://discord.gg/matriarx">✨💕</a>
   </p>
 
   <p>
     <a href="https://github.com/miamatriarx">
-      <img src="https://contrib.rocks/image?repo=miamatriarx/miamatriarx" title="Mia Matriarx" alt="Mia Matriarx"/>
+      <img src="https://contrib.rocks/image?repo=miamatriarx/metamatriarx" title="Mia Matriarx" alt="Mia Matriarx"/>
     </a>
   </p>
 
